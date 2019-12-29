@@ -1,4 +1,4 @@
-package co.appbrewery.dicee
+package com.example.dicee
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
